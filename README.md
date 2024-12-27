@@ -4,7 +4,7 @@
 
 What make the difference?
 
-This script its not only a typical telegram downloader, it could monitor 2 channels and each channel execute a tinyMediaManager command, so let your kodi media gallery ready for offline use.
+This script its not only a typical telegram downloader, it could monitor 2 channels and each channel execute a tinyMediaManager command, so let your kodi media gallery ready for offline use. Also, it let the option to create a folder for grouped_id (nested message) so it will be suitable for tv shows. When the downloads are ready, join and extract 7z/zip/rar multipart files.
 
 How to configure?
 
